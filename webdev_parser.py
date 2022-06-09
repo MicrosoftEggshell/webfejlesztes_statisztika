@@ -4,8 +4,6 @@ from math import ceil
 import pickle
 from bs4 import BeautifulSoup
 
-# !!! note: ensure_ascii=False for json.dumps
-
 CRITERIA = {}
 SITES    = {}
 
