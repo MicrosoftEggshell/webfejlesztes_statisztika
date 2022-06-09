@@ -44,7 +44,7 @@ class Criterion:
             return self.success_score
         return self.failure_score
 
-    def simple(self):
+    def simple(self) -> str:
         """Az irányelv első bekezdése/mondata."""
         return self.text.split('\n', maxsplit=1)[0].split('.', maxsplit=1)[0] + '.'
 
