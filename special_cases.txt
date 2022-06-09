@@ -1,0 +1,5 @@
+3m6u - null value for points: column 3; invalid value for completed requirements: column 1
+6sez - requirement point only given by other critics, not self: row 31
+4xb5, u7pj - only one critic completed rating other then self (x5ct missed both)
+mf7g, t5cv - collision of 1. critic id (qcty)
+vqtm, mv2g, ukr7, hv2c - indices above 1 missing
