@@ -66,7 +66,7 @@ def print_stats():
               most_missed.simple(), sep='')
         print()
 
-    def print_peer_discepancies():
+    def print_peer_discrepancies():
         discrepancies = {c: 0 for c in CRITERIA.values()}
         for site in complete:
             for r in site.ratings:
@@ -83,7 +83,7 @@ def print_stats():
     print_perfect()
     print_most_missed_single()
     print_most_missed()
-    print_peer_discepancies()
+    print_peer_discrepancies()
 
 def draw_figures(saveformat = None):
 
