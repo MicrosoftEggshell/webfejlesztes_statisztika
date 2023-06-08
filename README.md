@@ -1,4 +1,4 @@
-# Statisztikagyűjtő alkalmazás az ELTE WEb-fejlesztés (IP-18WF1EG) tárgyának a beadandójához
+# Statisztikagyűjtő alkalmazás az ELTE Web-fejlesztés (IP-18WF1EG) tárgyának a beadandójához
 
 ## Bevezetés
 
@@ -42,7 +42,9 @@ Ez gyártja a grafikonokat és egyéb statisztikákat.
 
 ## Eredmények
 
-A grafikonok nem éppen a legszebbek, de az információt átadják..
+Minden információ a 2021/22/2 félévre vonatkozik
+
+### Szöveges statisztikák
 
 ```txt
 36 oldal bukott biztosan - 8.43%
